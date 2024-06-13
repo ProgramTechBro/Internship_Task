@@ -18,6 +18,7 @@ class _FavouriteScreenState extends State<FavouriteScreen> {
     'Dailymotion',
   ];
 
+
   @override
   Widget build(BuildContext context) {
     final height = MediaQuery.of(context).size.height;
