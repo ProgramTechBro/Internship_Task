@@ -8,6 +8,7 @@ class FavouriteScreen extends StatefulWidget {
   State<FavouriteScreen> createState() => _FavouriteScreenState();
 }
 
+
 class _FavouriteScreenState extends State<FavouriteScreen> {
   late var selectedCategory = 'All';
   final List<String> categories = [
